@@ -1,5 +1,8 @@
-## Hi there 👋
+## This username is no longer in use!
 
+### You can find my new profile at https://github.com/evansethan
+
+Cheers! :-)
 <!--
 **ethan1evans/ethan1evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
