@@ -1,6 +1,6 @@
-## This username is no longer in use!
+### Hey, it's Ethan! I've moved my information to a new profile!
 
-### You can find my new profile at https://github.com/evansethan
+# REDIRECT HERE: https://github.com/evansethan
 
 Cheers! :-)
 <!--
